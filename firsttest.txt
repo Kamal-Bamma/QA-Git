@@ -1,2 +1,3 @@
 Hello..! this is a new first file.
-new features added and reviewd by branch two.
+new features added in checkout page by branch two.
+new features added in logout page.
