@@ -1,2 +1,2 @@
 Hello..! this is a new first file.
-new features added.
+new features added in logout page.
